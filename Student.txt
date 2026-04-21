@@ -1,0 +1,4 @@
+Nidhi | 90.0 | A
+Aariyan | 78.0 | C
+Priyanka | 67.0 | D
+sandhya | 56.0 | F
